@@ -1,2 +1,0 @@
-# daggertest
-simple dagger example
